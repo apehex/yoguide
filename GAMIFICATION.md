@@ -1,9 +1,12 @@
 # Skills
 
-> The physical, technical, mental and organizational skills you can develop through yoga.
+> Yoga is too vast, let's explore it with games!
 
-See:
-- Maximum Climbing p21
+Identify the impact of each posture on the body:
+- working muscles
+- stretching muscles
+- position
+- type: relaxing, stretching, power, mixed
 
 # Table of Contents
 
@@ -11,6 +14,7 @@ See:
 - [Technical Skills](#technical-skills)
 - [Mental Skills](#mental-skills)
 - [Organizational Skills](#organizational-skills)
+- [Overall Skills](#overall-skills)
 
 # Physical Skills
 
@@ -18,13 +22,21 @@ See:
 
 Let the breath move you.
 
+### Objectives
+
 ### Tracking and Debriefing
 
+How?
+
 ### Measure
+
+Without any input?..
 
 ### Self-Assessment
 
 ### Exercises
+
+### Achievements
 
 ## Engage
 
@@ -72,6 +84,8 @@ Maintain the integrity of the spine.
 
 ## Celebration of the Spiritual - Ishvarapranidhana
 
+## Relaxing
+
 ## Fear Management
 
 ## Mind Programming
@@ -92,4 +106,23 @@ Maintain the integrity of the spine.
 - for the training sessions
 - projects
 
-# Overview
+## Creating a Practice Space
+
+## Regularity
+
+# Overall Skills
+
+- objectifs : étirements, relaxation, renforcement, conscience, souffle
+- précisions : faiblesse, niveau, blessure, rythme, musique....
+- achievements : yoga asanas, learn names, time of pratice, regularity, meet your goals, 
+- skills : alignment, breathing, consciousness
+- physical : rythm, strength of postures, 
+
+pour chaque asana :
+- localiser les muscles qui travaillent
+- les muscles qui sont étirés,
+- le type de posture : repos, équilibre, renforcement
+- la position : ouverture hanches, poitrine, alignement x et y, appuis
+- images et visualisations : étirer vers le ciel, attiré par la terre, paysage, ...
+
+## Flow

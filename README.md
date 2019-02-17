@@ -34,6 +34,10 @@ Yoguide is a personnal assistant that generates yoga routines adapted to your ne
 
 ## Features
 
+For now the project is being designed on all levels:
+- [the player skills, goals and achievements](GAMIFICATION.md)
+- [the application](SOFTWARE.md)
+
 ## Requirements
 
 ## Installation
