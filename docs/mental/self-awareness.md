@@ -1,5 +1,5 @@
 <!---------------------------------------------------------------------------->
-## (Self-)Awareness
+## (Self-)Awareness - Swadhyaya
 
 ### Tracking and Debriefing
 
