@@ -5,4 +5,4 @@ help:
 	@echo "help - show this message"
 
 docs:
-	cat GAMIFICATION_TOC.md PHYSICAL_SKILLS.md TECHNICAL_SKILLS.md MENTAL_SKILLS.md ORGANIZATIONAL_SKILLS.md OVERALL_SKILLS.md > GAMIFICATION.md
+	cat docs/toc.md docs/physical/* docs/technical/* docs/mental/* docs/organizational/* docs/overall/* > GAMIFICATION.md
