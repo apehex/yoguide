@@ -9,6 +9,8 @@ Raise your awareness of the body layers.
 
 ### Self-Assessment
 
+- organ body scan
+
 ### Objectives and Achievements
 
 ### Exercises

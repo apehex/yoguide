@@ -9,6 +9,10 @@ Let the breath move you.
 
 ### Self-Assessment
 
+- let the breath move you
+- guide the breath : ujjayi
+- amplifying the breath
+
 ### Objectives and Achievements
 
 ### Exercises

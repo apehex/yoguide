@@ -10,6 +10,8 @@
 
 ### Self-Assessment
 
+- following the lines of the bones
+
 ### Objectives and Achievements
 
 ### Exercises

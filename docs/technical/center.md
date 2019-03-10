@@ -9,6 +9,10 @@ Maintain the integrity of the spine.
 
 ### Self-Assessment
 
+- centering the pelvis
+- centering the weight on the feet
+- elongating the spine before extension
+
 ### Objectives and Achievements
 
 ### Exercises

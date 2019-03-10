@@ -47,6 +47,10 @@ Let the breath move you.
 
 ### Self-Assessment
 
+- let the breath move you
+- guide the breath : ujjayi
+- amplifying the breath
+
 ### Objectives and Achievements
 
 ### Exercises
@@ -61,6 +65,8 @@ Raise your awareness of the body layers.
 ### Metrics
 
 ### Self-Assessment
+
+- organ body scan
 
 ### Objectives and Achievements
 
@@ -158,6 +164,8 @@ Raise your awareness of the body layers.
 
 ### Self-Assessment
 
+- following the lines of the bones
+
 ### Objectives and Achievements
 
 ### Exercises
@@ -190,6 +198,10 @@ Maintain the integrity of the spine.
 ### Metrics
 
 ### Self-Assessment
+
+- centering the pelvis
+- centering the weight on the feet
+- elongating the spine before extension
 
 ### Objectives and Achievements
 
@@ -254,6 +266,9 @@ Move from the inside out: the human starfish.
 
 ### Self-Assessment
 
+- navel radiation
+- the starfish
+
 ### Objectives and Achievements
 
 ### Exercises
@@ -268,6 +283,8 @@ Place your body on strong and balanced foundations.
 ### Metrics
 
 ### Self-Assessment
+
+- the cascading effect of the foundation
 
 ### Objectives and Achievements
 

@@ -9,6 +9,9 @@ Move from the inside out: the human starfish.
 
 ### Self-Assessment
 
+- navel radiation
+- the starfish
+
 ### Objectives and Achievements
 
 ### Exercises
